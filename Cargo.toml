@@ -1,0 +1,8 @@
+[package]
+name = "mvgl_tool"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+binary-stream = "10.0.0"
+lz4_flex = "=0.11.3"
