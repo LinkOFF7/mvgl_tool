@@ -22,5 +22,4 @@ fn main() {
         process::exit(0);
         }
     }
-    let _ = mvgl::extract("app_text01.dx11.mvgl");
 }
